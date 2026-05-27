@@ -1,0 +1,5 @@
+{
+  "name": "Orçamento GOV",
+  "description": "A tool to upload base PDF proposals, configure item quantities, and generate a final PDF with a dynamic price table appended to the last page.",
+  "requestFramePermissions": []
+}
