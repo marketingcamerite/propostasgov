@@ -29,7 +29,6 @@ export const INITIAL_ITEMS: ProposalItem[] = [
   
   { id: 18, desc: "Licença Auto OCR (sem câmera)", type: "mensal", unit: "SERVIÇO", unitPrice: 590.00, quantity: 0 },
   { id: 19, desc: "Licença de Detecção de Pessoas", type: "mensal", unit: "SERVIÇO", unitPrice: 109.90, quantity: 0 },
-  { id: 20, desc: "Licença de Detecção de Movimento", type: "mensal", unit: "SERVIÇO", unitPrice: 99.90, quantity: 0 },
   { id: 37, desc: "Licença Contagem de Pessoas", type: "mensal", unit: "SERVIÇO", unitPrice: 180.00, quantity: 0 },
   { id: 38, desc: "Licença Detecção de Aglomeração", type: "mensal", unit: "SERVIÇO", unitPrice: 109.90, quantity: 0 },
   { id: 39, desc: "Licença Detecção de Queda", type: "mensal", unit: "SERVIÇO", unitPrice: 109.90, quantity: 0 },
