@@ -23,7 +23,11 @@ export const INITIAL_ITEMS: ProposalItem[] = [
   { id: 13, desc: "Licença de Armazenamento em nuvem por 30 dias + Locação de Torre de Monitoramento Ostensivo - 03 Câmeras Bullet IP Full HD (2MP) + 01 Câmera IP (4MP) para leitura de placas veiculares de até 70km/h", type: "mensal", unit: "SERVIÇO", unitPrice: 3600.00, quantity: 0 },
   { id: 14, desc: "Licença de Armazenamento em nuvem por 30 dias + Locação de Torre de Monitoramento Ostensivo - 02 Câmeras Bullet IP Full HD (2MP) + 02 Câmera IP (4MP) para leitura de placas veiculares de até 70km/h", type: "mensal", unit: "SERVIÇO", unitPrice: 4000.00, quantity: 0 },
   { id: 15, desc: "Locação de Central de Monitoramento", type: "mensal", unit: "SERVIÇO", unitPrice: 7000.00, quantity: 0 },
-  { id: 16, desc: "Licença Hórus 2.0", type: "mensal", unit: "SERVIÇO", unitPrice: 59.90, quantity: 0 },
+  { id: 42, desc: "Licença Hórus - Pacote 10 Horas", type: "mensal", unit: "SERVIÇO", unitPrice: 458.00, quantity: 0 },
+  { id: 43, desc: "Licença Hórus - Pacote 50 Horas", type: "mensal", unit: "SERVIÇO", unitPrice: 2990.00, quantity: 0 },
+  { id: 44, desc: "Licença Hórus - Pacote 100 Horas", type: "mensal", unit: "SERVIÇO", unitPrice: 5980.00, quantity: 0 },
+  { id: 45, desc: "Licença Hórus - Pacote 200 Horas", type: "mensal", unit: "SERVIÇO", unitPrice: 11960.00, quantity: 0 },
+  { id: 46, desc: "Despacho de Ocorrência", type: "mensal", unit: "SERVIÇO", unitPrice: 5000.00, quantity: 0 },
   { id: 17, desc: "Licença de Reconhecimento Facial (sem câmera)", type: "mensal", unit: "SERVIÇO", unitPrice: 850.00, quantity: 0 },
   { id: 36, desc: "Licença de Software Leitura de Placas (sem câmera)", type: "mensal", unit: "SERVIÇO", unitPrice: 590.00, quantity: 0 },
   
